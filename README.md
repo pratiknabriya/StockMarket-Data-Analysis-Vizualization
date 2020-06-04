@@ -1,2 +1,3 @@
-# StockMarket_Data_Analysis_Vizualization
-Using Python to extract, perform data analysis &amp; visualizations and derive insights from the historical day-to-day price-volume data of various stocks registered on NSE, India. 
+Data Analysis & Visualization in Finance — Technical Analysis of Stocks using Python
+
+https://medium.com/@pratik.nabriya/data-analysis-visualization-in-finance-technical-analysis-of-stocks-using-python-269d535598e4?source=friends_link&sk=2e4853237191c78db366767af32bc73d 
